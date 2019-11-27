@@ -99,3 +99,6 @@ if empty(mapcheck('<C-W>', 'i'))
 endif
 
 " vim:set ft=vim et sw=2:
+
+set expandtab
+set shiftwidth=2
