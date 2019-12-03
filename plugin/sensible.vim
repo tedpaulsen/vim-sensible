@@ -103,3 +103,5 @@ endif
 set expandtab
 set shiftwidth=2
 set number
+
+let g:netrw_banner = 0
